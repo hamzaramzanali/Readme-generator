@@ -1,7 +1,7 @@
-# Readme-generator
+# README Generator
 
 ## Description
-This application was created to allow an user to input their data into the command line to dynamically create a README.
+This project was designed to allow an user to dynamically create a README file by using the command line. An user must input their answers to the questions in the command line, then their inputs will be appended onto the README file.
 
 ## Table of Contents
 [Installation](#installation)
@@ -10,28 +10,33 @@ This application was created to allow an user to input their data into the comma
 
 [License](#license)
 
-[Contribution](#contribution)
+[Contributions](#contributions)
 
-[Test Instructions](#testinstructions)
+[Test Instructions](#test-instructions)
 
-[Questions](#github)
+[Questions](#questions)
 
 ## Installation
-In order to install the project, the user can download the file onto their computer and use the command line to input their data.
+In order to install this project, the user can download the file onto their computer, and then use the command line to create the README.
     
 ## Usage
-The purpose of this project is to allow an user to easily create a README using the command line.
+An user can use this project to help them create a README file quickly and dynamically.
     
 ## License
-Check out the badges hosted by [shields.io](https://shields.io/). [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+Check out the badges hosted by [shields.io](https://shields.io/). [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache_2.0)
     
 ## Contributions
 This project was made by Hamza Ramzanali.
     
 ## Test Instructions
-In order to test the application, the user can type their answers into the command line, then go onto their README file and see if the data was transferred.
+To test if this project works, answer the questions in the command line, then go over to the README file, to see if the data was transferred.
 
 ## Questions 
 If you have any questions, reach out to me at:
+
 hamzaramzanali@github.com
+
 hamzaramzanali1@gmail.com
+
+## Screen Recording
+https://drive.google.com/file/d/1CwJotGOWHqRW7d_g0OQ2rcMJdAD3lois/view
