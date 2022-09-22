@@ -53,7 +53,7 @@ inquirer
         },
         {
             type: 'input',
-            message: 'Write a description about your project',
+            message: 'Write a description about your project:',
             name: 'description',
         },
         {
@@ -68,7 +68,7 @@ inquirer
         },
         {
             type: 'input',
-            message: 'Write the contribution guidelines for your project',
+            message: 'Write the contribution guidelines for your project:',
             name: 'contribution',
         },
         {
