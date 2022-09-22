@@ -65,7 +65,7 @@ inquirer
         },
         {
             type: 'input',
-            message: 'What is the purpose of your project?',
+            message: 'What is the usage of your project?',
             name: 'usage',
         },
         {
