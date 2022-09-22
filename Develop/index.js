@@ -15,11 +15,11 @@ ${data.description}
 
 [License](#license)
 
-[Contribution](#contribution)
+[Contributions](#contributions)
 
-[Test Instructions](#testinstructions)
+[Test Instructions](#test-instructions)
 
-[Questions](#github)
+[Questions](#questions)
 
 ## Installation
 ${data.installation}
@@ -38,7 +38,9 @@ ${data.testinstructions}
 
 ## Questions 
 If you have any questions, reach out to me at:
+
 ${data.github}
+
 ${data.email}
 `
 
@@ -69,12 +71,12 @@ inquirer
         {
             type: 'input',
             message: 'Write the contribution guidelines for your project:',
-            name: 'contribution',
+            name: 'contributions',
         },
         {
             type: 'input',
             message: 'What are the test instructions for your project?',
-            name: 'testinstructions',
+            name: 'test-instructions',
         },
         {
             type: 'input',
@@ -102,6 +104,6 @@ inquirer
     .then((response) => {
         const readmeContent = generateReadme(response)
         fs.writeFile('README.md', readmeContent, (err) =>
-            err ? console.error(err) : console.log('Success!')
+            err ? console.error(err) : console.log('README Generated!')
         )
     })

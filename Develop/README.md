@@ -1,7 +1,7 @@
 
-# READme Generator
+# alkdjfalf
 ## Description
-This project is designed to allow an user to create a README file simply using the node in their command line.
+aldfkjlaf
 
 ## Table of Contents
 [Installation](#installation)
@@ -10,28 +10,30 @@ This project is designed to allow an user to create a README file simply using t
 
 [License](#license)
 
-[Contribution](#contribution)
+[Contributions](#contributions)
 
-[Test Instructions](#testinstructions)
+[Test Instructions](#test-instructions)
 
-[Questions](#github)
+[Questions](#questions)
 
 ## Installation
-Download the file onto your computer to use the README generator in your command line.
+aldkjfal
     
 ## Usage
-The purpose of this project is to allow an user to create a README dynamically and easily. 
+jaldkjfa
     
 ## License
-Check out the badges hosted by [shields.io](https://shields.io/). [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache_2.0)
+Check out the badges hosted by [shields.io](https://shields.io/). [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
     
 ## Contributions
-This project was made by Hamza Ramzanali.
+undefined
     
 ## Test Instructions
-To test if this works, answer the questions in the command line, and then check your README file to see if the items were entered into the README.
+undefined
 
 ## Questions 
 If you have any questions, reach out to me at:
-hamzaramzanali@github.com
-hamzaramzanali1@gmail.com
+
+lajdfla
+
+klajdflkj
