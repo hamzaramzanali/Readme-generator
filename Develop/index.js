@@ -31,7 +31,7 @@ ${data.usage}
 Check out the badges hosted by [shields.io](https://shields.io/). [![License](https://img.shields.io/badge/License-${data.license}-blue.svg)](https://opensource.org/licenses/${data.license})
     
 ## Contributions
-${data.contribution}
+${data.contributions}
     
 ## Test Instructions
 ${data.testinstructions}
@@ -76,7 +76,7 @@ inquirer
         {
             type: 'input',
             message: 'What are the test instructions for your project?',
-            name: 'test-instructions',
+            name: 'testinstructions',
         },
         {
             type: 'input',
